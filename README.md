@@ -85,6 +85,8 @@ DROP TABLE closest_dealerships
 ```
 ![image](https://github.com/user-attachments/assets/daa94abb-6f15-4f43-8129-644c3e9c9696)
 
+https://datalens.yandex/eqfpgbenkyso0 - ссылка на карту клиентов и сервисных центров в облачной визуализации Yandex DataLence.
+
 ## Вывод ##
 Выполнили описательный анализ данных временных рядов с
 помощью DATETIME, использовали геопространственные данные для определения
